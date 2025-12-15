@@ -1,8 +1,7 @@
 # cinemapedia_220083
 
-<img src="imagen1.jpg" alt="Logo Carrera" width="200" align="center"/>
-<img src="imagen2.jpg" alt="Logo Carrera" width="200" align="center"/>
-<img src="imagen3.jpg" alt="Logo Carrera" width="200" align="center"/>
+<img src="imagen1.jpeg" alt="Logo Carrera" width="200" align="center"/>
+<img src="imagen3.jpeg" alt="Logo Carrera" width="200" align="center"/>
 
 ---
 
@@ -236,7 +235,7 @@ flutter run
 ## Autor
 
 **Juan Alberto Vázquez Hernández**  
-**Matrícula:** 220083  
+**Matrícula:** 220083  flu
 **Instituto Tecnológico de Puebla**  
 **Carrera:** Ingeniería en Sistemas Computacionales  
 **Materia:** Desarrollo de Aplicaciones Móviles  
