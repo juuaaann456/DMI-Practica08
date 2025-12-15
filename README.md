@@ -1,6 +1,7 @@
 # cinemapedia_220083
 
 <img src="imagen1.jpeg" alt="Logo Carrera" width="200" align="center"/>
+<img src="imagen2.jpeg" alt="Logo Carrera" width="200" align="center"/>
 <img src="imagen3.jpeg" alt="Logo Carrera" width="200" align="center"/>
 
 ---
